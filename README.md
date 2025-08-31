@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pskc
-- 👀 I’m interested in Home Assistant platform
-- 🌱 I’m currently learning Home Automation
-- 💞️ I’m looking to collaborate on Brazilian Portuguese translations
+- 👀 I’m interested in Home Assistant
+- 🌱 I’m currently working on led scoreboard automation
 - 📫 How to reach me: pskcruz@gmail.com
 
 <!---
